@@ -1,0 +1,76 @@
+{
+    "homes": [
+        {
+            "id": "1",
+            "time": "20:30",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "5"
+        },
+        {
+            "id": "2",
+            "time": "20:30",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "16"
+        },
+        {
+            "id": "3",
+            "time": "20:30",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "13"
+        },
+        {
+            "id": "1",
+            "time": "21:00",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "6"
+        },
+        {
+            "id": "2",
+            "time": "21:00",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "16"
+        },
+        {
+            "id": "3",
+            "time": "21:00",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "13"
+        },
+        {
+            "id": "1",
+            "time": "21:30",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "6"
+        },
+        {
+            "id": "2",
+            "time": "21:30",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "17"
+        },
+        {
+            "id": "3",
+            "time": "21:30",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "20"
+        },
+        {
+            "id": "1",
+            "time": "22:00",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "8"
+        },
+        {
+            "id": "2",
+            "time": "22:00",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "17"
+        },
+        {
+            "id": "3",
+            "time": "20:55",
+            "date": "01-07-23",
+            "litresOfWaterUsed": "21"
+        }
+    ]
+}
